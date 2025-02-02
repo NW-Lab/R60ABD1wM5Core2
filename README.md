@@ -1,0 +1,2 @@
+# R60ABD1wM5Core2
+MicRadar R60ABD1をM5Core2 AWSで動かす
